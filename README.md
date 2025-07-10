@@ -1,41 +1,41 @@
-# ✈️ Airline Delay and Cancellation Analysis (2009–2018)
+ ✈️ Airline Delay and Cancellation Analysis (2009–2018)
 
 This project analyzes flight data from the U.S. Department of Transportation covering 2009–2018. The goal is to explore trends in delays and cancellations and understand the reasons behind them.
 
-## 📦 Dataset
+📦 Dataset
 - Source: [Kaggle – Airline Delay and Cancellation Data](https://www.kaggle.com/datasets)
 - Contains over 60 million records across 10 years
 - Each file represents one year of domestic U.S. flights
 
-## 🔧 Tools Used
+🔧 Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 - Google Colab
 
-## 📊 Key Analyses
+ 📊 Key Analyses
 - Top 10 Airlines by Number of Flights
 - Busiest Origin and Destination Airports
 - Annual Cancellation Rates
 - Average Delay Minutes by Cause (Weather, Carrier, NAS, etc.)
 
-## 📈 Visualizations
+📈 Visualizations
 The project includes:
 - Bar chart for most active airlines
 - Line plot of cancellation rates over the years
 - Bar chart comparing average delays by cause
 
-## ✅ Key Findings
+✅ Key Findings
 - A few major airlines handle the bulk of U.S. flights
 - Cancellations peaked during certain years, likely due to weather or regulation
 - The most common delay causes are Late Aircraft and NAS (National Airspace System)
 
-## 🚀 Future Improvements
+🚀 Future Improvements
 - Build an interactive dashboard using Tableau or Power BI
 - Use machine learning to predict delays
 
-## 👤 Author
+👤 Author
 Khoshaba odeesho
 Data Analyst | Hotel Management Background | Passionate about storytelling through data  
 📫 [LinkedIn Profile]: http://linkedin.com/in/khoshaba-odeesho-17b5b92aa
