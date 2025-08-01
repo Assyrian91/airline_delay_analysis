@@ -13,7 +13,8 @@ This project is a comprehensive analysis of U.S. airline performance from 2009 t
 - Source: [Kaggle – Airline Delay and Cancellation Data](https://www.kaggle.com/datasets)
 - Contains over 60 million records across 10 years
 - Each file represents one year of domestic U.S. flights
-# Airline Performance Analysis & Predictive Modeling (2009-2018)
+- 
+##Airline Performance Analysis & Predictive Modeling (2009-2018)
 
 ## Methodology
 1.  **Data Preprocessing:** The large dataset was loaded in chunks to manage memory, then cleaned and aggregated by year and by airline carrier.
@@ -27,6 +28,7 @@ This project is a comprehensive analysis of U.S. airline performance from 2009 t
 -   **2014** had the highest average delays and cancellations over the decade.
 -   There is a **positive correlation** between an airline's average delay and its total cancelled flights.
 -   The simple linear model's performance was weak (R2 Score close to zero), suggesting that the relationship between the two variables is **not strongly linear**.
+
 
 ## Technologies Used
 -   **Python**
